@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H8rexFeTDDXkU6shdd6cocB790Cabu+gYNt3v6RUV40+oayMRRymP2yecJ4MELJM8FtsI6GU57HBDTKePQFErg==",
+  "dgSpecHash": "iUwHLTuwEWmeeqfRAroA120ixj551MrfWUzbba38WQaimAt5vq6+yLuaFg6J+dJKLHM21ggARGoALpeun1bZ9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victor.jimenez\\Desktop\\13-8-22\\2806-main\\2806-main\\Desafio\\Blog.csproj",
+  "projectFilePath": "C:\\projetos\\mentoria\\mentoria\\Blog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victor.jimenez\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\victor.jimenez\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",

@@ -16,8 +16,8 @@ namespace Blog.Models
         public int DuracaoEmMinutos { get; set; }
         public DateTime DataCriacao { get; set; }
         public DateTime DataUltimaAtualizacao { get; set; }
-        public Guid? AutorId { get; set; }
-        public Guid? CategoriaId { get; set; }
+        // public Guid? AutorId { get; set; }
+        // public Guid? CategoriaId { get; set; }
 
         public List<Categoria> Categorias { get; set; }
     }

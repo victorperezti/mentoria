@@ -1,5 +1,6 @@
 ﻿using System;
 using Blog.Tela.AlunoTela;
+using Blog.Tela.CursoTela;
 using Microsoft.Data.SqlClient;
 
 namespace Blog
@@ -42,6 +43,9 @@ namespace Blog
             {
                 case 1:
                     MenuAlunoTela.Load();
+                    break;
+                case 5:
+                    MenuCursoTela.Load();
                     break;
                 default: Load(); break;
             }

@@ -1634,11 +1634,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victor.jimenez\\Desktop\\13-8-22\\2806-main\\2806-main\\Desafio\\Blog.csproj",
+      "projectUniqueName": "C:\\projetos\\mentoria\\mentoria\\Blog.csproj",
       "projectName": "Blog",
-      "projectPath": "C:\\Users\\victor.jimenez\\Desktop\\13-8-22\\2806-main\\2806-main\\Desafio\\Blog.csproj",
+      "projectPath": "C:\\projetos\\mentoria\\mentoria\\Blog.csproj",
       "packagesPath": "C:\\Users\\victor.jimenez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victor.jimenez\\Desktop\\13-8-22\\2806-main\\2806-main\\Desafio\\obj\\",
+      "outputPath": "C:\\projetos\\mentoria\\mentoria\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
